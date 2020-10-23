@@ -7,9 +7,9 @@ The application calculates with an accurate percentage (which is shown on the te
 It uses 3 Machine Learning Algorithms so we can see the percentage possibility result of each of these and get a more accurate total result of the disease. 
 **The algorithms that are used are the following:** 
 
-* [Decision Tree](shorturl.at/agkxN)
+* [Decision Tree](https://en.wikipedia.org/wiki/Decision_tree_learning)
 * [Naive Bayes Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
-* [Random Forest](shorturl.at/cowF6) 
+* [Random Forest](https://en.wikipedia.org/wiki/Random_forest) 
 
 ## Installation Instructions: 
 ##### (On linux machines)
