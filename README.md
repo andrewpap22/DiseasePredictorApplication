@@ -25,6 +25,6 @@ It uses 3 Machine Learning Algorithms so we can see the percentage possibility r
 
 ## Running the application: 
 
-On the terminal inside the directory of the project type: **python3 clean_code.py** The Graphical Interface of the application will start and the use of it, is straightforward. (Remember if u want to see the predictive percentage of each algorithm take a look on your terminal after pressing each of the algorithm buttons.) 
+On the terminal inside the directory of the project type: **python3 disease_predictor.py** The Graphical Interface of the application will start and the use of it, is straightforward. (Remember if u want to see the predictive percentage of each algorithm take a look on your terminal after pressing each of the algorithm buttons.) 
 
 :copyright: Andrew Pappas, All Rights Reserved!
